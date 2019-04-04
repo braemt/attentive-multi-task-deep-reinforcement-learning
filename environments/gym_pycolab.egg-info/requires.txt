@@ -1,0 +1,6 @@
+gym
+numpy>=1.9
+six
+
+[ndimage]
+scipy>=0.13.3

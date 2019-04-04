@@ -1,0 +1,10 @@
+NEW OR MODIFIED FILES COMPARED TO https://github.com/deepmind/pycolab:
+
+gym_pycolab/envs/__init__.py
+gym_pycolab/envs/pycolab_env.py
+gym_pycolab/envs/pycolab_grid_worlds.py
+gym_pycolab/worlds/__init__.py
+gym_pycolab/worlds/connect_four.py
+gym_pycolab/worlds/grid_worlds.py
+gym_pycolab/__init__.py
+MODIFIED_FILES

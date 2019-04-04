@@ -1,0 +1,13 @@
+[console_scripts]
+aperture = pycolab.examples.aperture:main
+apprehend = pycolab.examples.apprehend:main
+chain_walk = pycolab.examples.classics.chain_walk:main
+cliff_walk = pycolab.examples.classics.cliff_walk:main
+extraterrestrial_marauders = pycolab.examples.extraterrestrial_marauders:main
+fluvial_natation = pycolab.examples.fluvial_natation:main
+four_rooms = pycolab.examples.classics.four_rooms:main
+hello_world = pycolab.examples.hello_world:main
+scrolly_maze = pycolab.examples.scrolly_maze:main
+shockwave = pycolab.examples.shockwave:main [ndimage]
+warehouse_manager = pycolab.examples.warehouse_manager:main
+

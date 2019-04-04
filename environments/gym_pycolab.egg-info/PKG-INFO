@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: gym-pycolab
+Version: 0.0.1
+Summary: An engine for small games for reinforcement learning agents.
+Home-page: https://github.com/deepmind/pycolab/
+Author: The pycolab authors
+Author-email: pycolab@deepmind.com
+License: Apache 2.0
+Description: A highly-customisable all-Python gridworld game engine with some batteries included. Make your own gridworld games to demonstrate reinforcement learning problems and test your agents!
+Keywords: ai ascii art game engine gridworld reinforcement learning retro retrogaming
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Environment :: Console :: Curses
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Games/Entertainment :: Arcade
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Testing
+Provides-Extra: ndimage
