@@ -1,5 +1,6 @@
-# universe-starter-agent
-The code contains an implementation of the [A3C algorithm](https://arxiv.org/abs/1602.01783) based on the universe-starter-agent [https://github.com/openai/universe-starter-agent](https://github.com/openai/universe-starter-agent).
+# Attentive Multi Task Deep Reinforcement Learning
+
+The code contains an implementation and environments of Attentive Multitask Deep Reinforcement Learning (Bräm et al.). It uses the [A3C algorithm](https://arxiv.org/abs/1602.01783) based on the [universe-starter-agent](https://github.com/openai/universe-starter-agent).
 
 # Dependencies
 
